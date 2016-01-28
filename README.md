@@ -22,14 +22,14 @@ The primary key for Transaction is Tno
 
 #FUNCTIONS:
 
-p1.sql - p1(name char) -Takes 1 argument
-p2.sql - p2(vendorName char) - Take 1 argument
-p3.sql - p3(account char, name char, province char, lim float) - Takes 4 arguments
-p4.sql - p4() - Takes no arguments
-p5.sql - p5() - Takes no arguments
-p6.sql - p6() - Takes no arguments
-p7.sql - p7() - Takes no arguments
-p8.sql - p8(trasNum char,vendorNum char,accountNum char,amount float) - Takes 4 arguments
+p1.sql - p1(name char) -Takes 1 argument 
+p2.sql - p2(vendorName char) - Take 1 argument 
+p3.sql - p3(account char, name char, province char, lim float) - Takes 4 arguments 
+p4.sql - p4() - Takes no arguments 
+p5.sql - p5() - Takes no arguments 
+p6.sql - p6() - Takes no arguments 
+p7.sql - p7() - Takes no arguments 
+p8.sql - p8(trasNum char,vendorNum char,accountNum char,amount float) - Takes 4 arguments 
 
 
 #Limitations:
