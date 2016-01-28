@@ -10,13 +10,13 @@
 
 (My three tables are called Vendor, Customer and Transaction)
 PLEASE NOTE:
-The primary key for Vendor is Vno
-The primary key for Customer is Account
-The primary key for Transaction is Tno
-*This means you cannot add a new row with the same valued primary key
+The primary key for Vendor is Vno  
+The primary key for Customer is Account  
+The primary key for Transaction is Tno  
+*This means you cannot add a new row with the same valued primary key  
 
-2.Run a specific sql script e.g p1.sql
-3.To run their function type the name of the script with their specific parameters. e.g p1.sql function is p1(argument);
+2.Run a specific sql script e.g p1.sql  
+3.To run their function type the name of the script with their specific parameters. e.g p1.sql function is p1(argument);  
 
 
 
@@ -32,5 +32,4 @@ p7.sql - p7() - Takes no arguments
 p8.sql - p8(trasNum char,vendorNum char,accountNum char,amount float) - Takes 4 arguments   
 
 
-#Limitations:
-For p4.sql the output will be for the most recent transactions of customers that have a transaction. It will NOT display "no transaction" if the customer does not have one.
+
