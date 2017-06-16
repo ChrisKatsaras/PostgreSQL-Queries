@@ -1,15 +1,13 @@
 
-#Christopher Katsaras
+# PostgreSQL Queries  
+## FILES: a3data.sql , p1,2,3,4,5,6,7,8.sql  
 
-
-##FILES: a3data.sql , p1,2,3,4,5,6,7,8.sql , README
-
-#HOW TO RUN:
+### HOW TO RUN:
 
 1.To run properly first run a3data.sql to initialize the tables and their data.
 
-(My three tables are called Vendor, Customer and Transaction)
-PLEASE NOTE:
+(The three tables are called Vendor, Customer and Transaction)
+NOTE:  
 The primary key for Vendor is Vno  
 The primary key for Customer is Account  
 The primary key for Transaction is Tno  
@@ -20,7 +18,7 @@ The primary key for Transaction is Tno
 
 
 
-#FUNCTIONS:
+# FUNCTIONS:
 
 p1.sql - p1(name char) -Takes 1 argument   
 p2.sql - p2(vendorName char) - Take 1 argument   
@@ -30,6 +28,3 @@ p5.sql - p5() - Takes no arguments
 p6.sql - p6() - Takes no arguments   
 p7.sql - p7() - Takes no arguments   
 p8.sql - p8(trasNum char,vendorNum char,accountNum char,amount float) - Takes 4 arguments   
-
-
-
